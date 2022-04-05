@@ -9,3 +9,6 @@
 }
 */
 
+function lonelyinteger(a) {
+    
+}
