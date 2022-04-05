@@ -10,5 +10,6 @@
 */
 
 function lonelyinteger(a) {
-    
+    //one liner using find and indexOf method
+    return a.find(x => a.indexOf(x) === a.lastIndexOf(x));
 }
